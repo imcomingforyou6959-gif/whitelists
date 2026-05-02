@@ -1,33 +1,152 @@
 {
   "WhitelistedUsers": {
     "919665092025528441": {
-      "username": "engravingangels",
-      "level": 2,
-      "attackable": false,
-      "tags": [
-        {
-          "text": "VAPE OWNER",
-          "color": [255, 255, 231]
-        }
-      ]
+      "userid": "919665092025528441",
+      "username": "HCKR",
+      "level": 1,
+      "attackable": false
     },
     "378746510596243458": {
-      "username": "username_here",
+      "userid": "378746510596243458",
+      "username": "AC Mod",
       "level": 1,
-      "attackable": false,
-      "tags": [
-        {
-          "text": "AC Mod",
-          "color": [160, 34, 160]
-        }
-      ]
+      "attackable": false
+    },
+    "709094619161296939": {
+      "userid": "709094619161296939",
+      "username": "baller",
+      "level": 1,
+      "attackable": false
+    },
+    "1125789044249460786": {
+      "userid": "1125789044249460786",
+      "username": "VAPE OWNER",
+      "level": 2,
+      "attackable": false
+    },
+    "900134277616926780": {
+      "userid": "900134277616926780",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "961711371425300602": {
+      "userid": "961711371425300602",
+      "username": "User",
+      "level": 1,
+      "attackable": false
+    },
+    "1000432733467721799": {
+      "userid": "1000432733467721799",
+      "username": "AMERICA",
+      "level": 1,
+      "attackable": false
+    },
+    "661623849825337373": {
+      "userid": "661623849825337373",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "989715351975624754": {
+      "userid": "989715351975624754",
+      "username": "Phong",
+      "level": 1,
+      "attackable": false
+    },
+    "759071932276146216": {
+      "userid": "759071932276146216",
+      "username": "scrxpted",
+      "level": 1,
+      "attackable": false
+    },
+    "771130296228904960": {
+      "userid": "771130296228904960",
+      "username": "I am Fis",
+      "level": 1,
+      "attackable": false
+    },
+    "384718982625886208": {
+      "userid": "384718982625886208",
+      "username": "Jesus",
+      "level": 1,
+      "attackable": false
+    },
+    "548146409065545730": {
+      "userid": "548146409065545730",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "1144358443394813993": {
+      "userid": "1144358443394813993",
+      "username": "HCKR",
+      "level": 1,
+      "attackable": false
+    },
+    "1145068116007718952": {
+      "userid": "1145068116007718952",
+      "username": "AMERICA",
+      "level": 1,
+      "attackable": false
+    },
+    "830968256277643264": {
+      "userid": "830968256277643264",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "855868524585156618": {
+      "userid": "855868524585156618",
+      "username": "MrBeast",
+      "level": 1,
+      "attackable": false
+    },
+    "1077461832056442901": {
+      "userid": "1077461832056442901",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "1095667370049142856": {
+      "userid": "1095667370049142856",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "1147367899720323114": {
+      "userid": "1147367899720323114",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "535253405971644417": {
+      "userid": "535253405971644417",
+      "username": "VAPE PRIVATE",
+      "level": 1,
+      "attackable": false
+    },
+    "1055559512997756980": {
+      "userid": "1055559512997756980",
+      "username": "gato lover 12",
+      "level": 1,
+      "attackable": false
+    },
+    "272412823148298240": {
+      "userid": "272412823148298240",
+      "username": "Homo",
+      "level": 1,
+      "attackable": false
+    },
+    "475120268826902559": {
+      "userid": "475120268826902559",
+      "username": "252373327",
+      "level": 1,
+      "attackable": false
     }
   },
   "BlacklistedUsers": {
-    "7149845989": "Blacklisted buddy",
-    "5365455037": "Being jewish",
-    "4152909863": "HM",
-    "1683850874": "test"
+    "userid_here": "Reason for ban"
   },
   "Announcement": {
     "text": "hello there :)",
