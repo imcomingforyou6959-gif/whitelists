@@ -1,13 +1,13 @@
 {
   "WhitelistedUsers": {
     "919665092025528441": {
-      "username": "username_here",
-      "level": 1,
+      "username": "engravingangels",
+      "level": 2,
       "attackable": false,
       "tags": [
         {
-          "text": "HCKR",
-          "color": [255, 255, 255]
+          "text": "VAPE OWNER",
+          "color": [255, 255, 231]
         }
       ]
     },
