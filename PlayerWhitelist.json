@@ -24,8 +24,10 @@
     }
   },
   "BlacklistedUsers": {
-    "123456789": "optional_reason_here",
-    "987654321": "optional_reason_here"
+    "7149845989": "Blacklisted buddy",
+    "5365455037": "Being jewish",
+    "4152909863": "HM",
+    "1683850874": "test"
   },
   "Announcement": {
     "text": "hello there :)",
