@@ -1,11 +1,6 @@
-"BlacklistedUsers": {
-    "1683850874": "User is blacklisted",
-    "987654321": "User is blacklisted"
-  },
-  "Announcement": {
-    "text": "hello there :)",
-    "expiretime": 1719510977.4331613,
-    "targets": "2529295875"
-  },
-  "KillVape": false
+{
+  "BlacklistedUsers": {
+    "1683850874": true,
+    "987654321": true
+  }
 }
