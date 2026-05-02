@@ -1,152 +1,342 @@
 {
   "WhitelistedUsers": {
     "919665092025528441": {
-      "userid": "919665092025528441",
-      "username": "HCKR",
+      "username": "user1",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     },
     "378746510596243458": {
-      "userid": "378746510596243458",
-      "username": "AC Mod",
+      "username": "user2",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "AC Mod",
+          "color": [
+            160,
+            34,
+            160
+          ]
+        }
+      ]
     },
     "709094619161296939": {
-      "userid": "709094619161296939",
-      "username": "baller",
+      "username": "user3",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "baller",
+          "color": [
+            0,
+            255,
+            0
+          ]
+        }
+      ]
     },
     "1125789044249460786": {
-      "userid": "1125789044249460786",
-      "username": "VAPE OWNER",
+      "username": "engravingangels",
       "level": 2,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
     },
     "900134277616926780": {
-      "userid": "900134277616926780",
-      "username": "VAPE PRIVATE",
+      "username": "user5",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "961711371425300602": {
-      "userid": "961711371425300602",
-      "username": "User",
+      "username": "user6",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": null
     },
     "1000432733467721799": {
-      "userid": "1000432733467721799",
-      "username": "AMERICA",
+      "username": "user7",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "AMERICA",
+          "color": [
+            57,
+            56,
+            110
+          ]
+        }
+      ]
     },
     "661623849825337373": {
-      "userid": "661623849825337373",
-      "username": "VAPE PRIVATE",
+      "username": "user8",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "989715351975624754": {
-      "userid": "989715351975624754",
-      "username": "Phong",
+      "username": "user9",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": null
     },
     "759071932276146216": {
-      "userid": "759071932276146216",
-      "username": "scrxpted",
+      "username": "user10",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "scrxpted",
+          "color": [
+            0,
+            255,
+            0
+          ]
+        }
+      ]
     },
     "771130296228904960": {
-      "userid": "771130296228904960",
-      "username": "I am Fis",
+      "username": "user11",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "I am Fis",
+          "color": [
+            30,
+            144,
+            255
+          ]
+        }
+      ]
     },
     "384718982625886208": {
-      "userid": "384718982625886208",
-      "username": "Jesus",
+      "username": "user12",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "Jesus",
+          "color": [
+            255,
+            255,
+            0
+          ]
+        }
+      ]
     },
     "548146409065545730": {
-      "userid": "548146409065545730",
-      "username": "VAPE PRIVATE",
+      "username": "user13",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "1144358443394813993": {
-      "userid": "1144358443394813993",
-      "username": "HCKR",
+      "username": "user14",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
     },
     "1145068116007718952": {
-      "userid": "1145068116007718952",
-      "username": "AMERICA",
+      "username": "user15",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "AMERICA",
+          "color": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
     },
     "830968256277643264": {
-      "userid": "830968256277643264",
-      "username": "VAPE PRIVATE",
+      "username": "user16",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "855868524585156618": {
-      "userid": "855868524585156618",
-      "username": "MrBeast",
+      "username": "user17",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": null
     },
     "1077461832056442901": {
-      "userid": "1077461832056442901",
-      "username": "VAPE PRIVATE",
+      "username": "user18",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "1095667370049142856": {
-      "userid": "1095667370049142856",
-      "username": "VAPE PRIVATE",
+      "username": "user19",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "1147367899720323114": {
-      "userid": "1147367899720323114",
-      "username": "VAPE PRIVATE",
+      "username": "user20",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "535253405971644417": {
-      "userid": "535253405971644417",
-      "username": "VAPE PRIVATE",
+      "username": "user21",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
     },
     "1055559512997756980": {
-      "userid": "1055559512997756980",
-      "username": "gato lover 12",
+      "username": "user22",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "gato lover 12",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     },
     "272412823148298240": {
-      "userid": "272412823148298240",
-      "username": "Homo",
+      "username": "user23",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "Homo",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     },
     "475120268826902559": {
-      "userid": "475120268826902559",
-      "username": "252373327",
+      "username": "user24",
       "level": 1,
-      "attackable": false
+      "attackable": false,
+      "tags": [
+        {
+          "text": "252373327",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {
-    "userid_here": "Reason for ban"
+    "123456789": "User is blacklisted",
+    "987654321": "User is blacklisted"
   },
   "Announcement": {
     "text": "hello there :)",
