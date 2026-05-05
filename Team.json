@@ -2,7 +2,7 @@
   "TeamMembers": [
     {"username": "engravingangels", "userId": 1683850874, "role": "Developer"},
     {"username": "test", "userId": 1234567889, "role": "Contributor"},
-    {"username": "Chaycebo2002", "userId": 2700026840, "role": "Team Member"}
+    {"username": "Chaycebo2002", "userId": 2700026840, "role": "Team Member"},
     {"username": "Just_cuzthegod", "userId": 2839558970, "role": "Team Member"}
   ]
 }
