@@ -2,13 +2,13 @@
   "WhitelistedUsers": [
     {
       "hash": "03a0fa6cdd4548a35f5bc5c881cabe7a65c3be4d1e9d2b80b6952910927013cfff1c6d76b31b9e543b1f45dbede65af783ab431771e6ced6cc91468f5521dcfe",
-      "username": "whydoyouneedfriends3",
+      "username": "whydouneedfriends3",
       "level": 0,
       "attackable": false,
       "tags": [
         {
           "text": "rawr.xyz",
-          "color": [235, 215, 134]
+          "color": [0.92, 0.84, 0.53]
         }
       ]
     }
