@@ -26,7 +26,7 @@
   "KillVape": false,
   "HWIDBlacklist": {
     "enabled": true,
-    "kickMessage": "smh youve been blacklisted",
+    "kickMessage": "Suspended from using rawr.xyz | https://discord.gg/UFjWRWsSB",
     "autoFlagOnTamper": true
   },
   "TamperProtection": {
